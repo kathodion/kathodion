@@ -19,10 +19,10 @@ I am looking forward to extending (starting 😁) my blog at <a href="https://de
 ## ✨ Current situation
 
 - 🔭 Currently working as Microsoft Cloud Architect/Consultant at SoftwareONE (Switzerland)
-- 🧑‍🎓 Part-time study BSc business information technology at the University of Applied Sciences and Arts Northwestern Switzerland.
+- 🧑‍🎓 Study part-time BSc business information technology at the University of Applied Sciences and Arts Northwestern Switzerland.
 - 🌱 Developing my skill around DevSecOps, Bicep, Docker, Kubernetes, and many more.
 - 🐕🏊 Dog owner (Australian cobberdog), and love to spend time outside.
-<img src="https://raw.githubusercontent.com/kasuken/kasuken/master/oro_web.png" alt="Oro">
+<img src="https://raw.githubusercontent.com/kathodion/kathodion/main/oro_web.png" alt="Oro">
 
 <br>
 
