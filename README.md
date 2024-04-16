@@ -6,13 +6,17 @@
 I'm a **Microsoft Cloud Architect/Consultant** and passionate about **geeky tech things**, and everything related to the cloud, especially **Microsoft Azure**. I also do some home automation with **home assistant** on an odroid n2+ with docker.
 
 I currently live next to the Rhine in **Basel** and participate in local communities, activities, and events.
+<!-- 
 I am looking forward to extending (starting 😁) my blog at <a href="https://dev.to/kathodion" target="_blank">dev.to/kathodion</a>.
+-->
 
 <br>
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/pascal-odermatt-aa725b115/">LinkedIn</a> 💼
-<!-- - Blog at <a href="https://dev.to/kathodion" target="_blank">dev.to</a> 📔 -->
+<!-- 
+- Blog at <a href="https://dev.to/kathodion" target="_blank">dev.to</a> 📔 
+-->
 
 <br>
 
