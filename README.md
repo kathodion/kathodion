@@ -12,7 +12,7 @@ I am looking forward to extending (starting 😁) my blog at <a href="https://de
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/pascal-odermatt-aa725b115/">LinkedIn</a> 💼
-- Blog at <a href="https://dev.to/kathodion" target="_blank">dev.to</a> 📔
+<!-- - Blog at <a href="https://dev.to/kathodion" target="_blank">dev.to</a> 📔 -->
 
 <br>
 
