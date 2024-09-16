@@ -10,17 +10,15 @@ I am looking forward to extending (starting 😁) my blog at <a href="https://de
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/pascal-odermatt-aa725b115/">LinkedIn</a> 💼
-<!-- 
-- Blog at <a href="https://dev.to/kathodion" target="_blank">dev.to</a> 📔 
--->
+- Blog at <a href="https://dev.to/kathodion" target="_blank">dev.to</a> 📔
 
 <br>
 
 ## ✨ Current situation
 
-- 🔭 Currently working as Microsoft Cloud Architect/Consultant at SoftwareONE (Switzerland)
+- 🔭 Currently working as Senior Microsoft Cloud Architect/Consultant at SoftwareONE (Switzerland)
 - 🧑‍🎓 Study part-time BSc business information technology at the University of Applied Sciences and Arts Northwestern Switzerland.
-- 🌱 Developing my skill around DevSecOps, Bicep, Docker, Kubernetes, and many more.
+- 🌱 Developing my skill around DevSecOps, Bicep, Docker, Kubernetes, C#, and many more.
 
 <br>
 
