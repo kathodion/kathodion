@@ -95,7 +95,7 @@ I am looking forward to extending (starting 😁) my blog at <a href="https://de
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pascal-odermatt-aa725b115/)
 
 ---
-<p align="center"> © 2023 Pascal Odermatt, all rights reserved. Made with ❤️. </p>
+<p align="center"> © 2023 Pascal Odermatt, all rights reserved. Made with ❤️ (and support from https://github.com/kasuken/). </p>
 <p align="center">
 https://dev.to/kathodion
 </p>
