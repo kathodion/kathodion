@@ -1,8 +1,6 @@
 
 # Hi, I'm Pascal 👋 📷 🐕 🏂 💻
 
-<!-- <img src="https://raw.githubusercontent.com/kasuken/kasuken/master/BannerGitHub.png"> -->
-
 I'm a **Microsoft Cloud Architect/Consultant** and passionate about **geeky tech things**, and everything related to the cloud, especially **Microsoft Azure**. I also do some home automation with **home assistant** on an odroid n2+ with docker.
 
 I currently live next to the Rhine in **Basel** and participate in local communities, activities, and events.
