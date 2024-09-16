@@ -1,7 +1,7 @@
 
 # Hi, I'm Pascal 👋 📷 🐕 🏂 💻
 
-I'm a **Senior Microsoft Cloud Architect/Consultant** and passionate about **geeky tech things**, and everything related to the cloud. I also do some home automation with **Home Assistant** https://www.home-assistant.io on an ODROID-N2+ with docker.
+I'm a **Senior Microsoft Cloud Architect/Consultant** and passionate about **geeky tech things**, and everything related to the cloud. I also do some home automation with **Home Assistant** <a href="https://www.home-assistant.io" target="_blank">home-assistant.io</a> on an ODROID-N2+ with docker.
 
 I currently live in **Basel** next to the Rhine and participate in local communities, activities, and events.
 I am looking forward to extending (starting 😁) my blog at <a href="https://dev.to/kathodion" target="_blank">dev.to/kathodion</a>.
